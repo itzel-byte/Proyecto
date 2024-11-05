@@ -1,0 +1,23 @@
+si llueve no salgo
+Si la contraseña es correcta y el usuario está activo, permite el acceso.
+Si el valor es mayor que cero o igual a cero, imprime "Número no negativo".
+Si el archivo es de tipo texto y tiene menos de 1 MB, permite la carga.
+Si el valor de entrada es un número o una cadena, procesa la entrada.
+Si el usuario tiene permisos de administrador y el sistema está en modo seguro, permite la modificación.
+Si el saldo es positivo o la cuenta tiene un límite de crédito, permite la transacción.
+Si la conexión está activa y el servidor responde, muestra el contenido.
+Si el archivo es de tipo imagen o video, permite la vista previa.
+Si el usuario acepta los términos y tiene más de 18 años, completa el registro.
+Si el producto está en stock o es una preorden, permite la compra.
+Si el valor ingresado es un entero y está en el rango, realiza la operación.
+Si el código de verificación es válido y la sesión no ha expirado, concede acceso.
+Si el usuario está logueado o la operación es pública, muestra la información.
+Si el documento está firmado y no está expirado, procede con la verificación.
+Si el pago fue exitoso y la orden fue procesada, envía el recibo.
+Si la conexión es segura y el certificado está válido, muestra la página.
+Si el email es válido o el número de teléfono está verificado, permite el envío.
+Si el formulario está completo y la foto de perfil es aceptable, permite la publicación.
+Si el comentario no contiene palabras ofensivas o es una respuesta, publícalo.
+Si el evento está activo y los boletos están disponibles, permite la reserva.
+
+no, variables no repetir, conectores del árbol, tabla de atomos
